@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo12738
-Fork on GitHub3235
 <h1 align="center">Hi 👋, I'm Kpughur-Tule Tertsegha Moses</h1>
 <h3 align="center">I'm a freelance software engineer, SEO expert, and technopreneur from Abuja, Nigeria.</h3>
 
@@ -33,28 +29,3 @@ Fork on GitHub3235
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosestule2003&show_icons=true&locale=en" alt="mosestule2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosestule2003&" alt="mosestule2003" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
